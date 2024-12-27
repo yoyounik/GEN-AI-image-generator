@@ -11,13 +11,13 @@ GEN-AI Image Generator leverages a GAN architecture to learn and mimic patterns 
 4. The project uses the MNIST dataset (28x28 grayscale images of digits) as a training set.
 
 **Features** <br>
-1.Custom implementation of Generator and Discriminator networks.
-2.Visualization of generated images after every training epoch.
-3.Training process with detailed logs for loss metrics (Generator and Discriminator).<br>
+1. Custom implementation of Generator and Discriminator networks.
+2. Visualization of generated images after every training epoch.
+3. Training process with detailed logs for loss metrics (Generator and Discriminator).<br>
 
 **Technologies Used** <br>
-1.Python
-2.PyTorch for neural network implementation.
-3.Torchvision for dataset and image utilities.
-4.Matplotlib for visualizing generated images.
+1. Python
+2. PyTorch for neural network implementation.
+3. Torchvision for dataset and image utilities.
+4. Matplotlib for visualizing generated images.
 

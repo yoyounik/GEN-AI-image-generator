@@ -5,10 +5,10 @@ A Generative Adversarial Network (GAN) designed to generate realistic images fro
 **Overview** <br>
 GEN-AI Image Generator leverages a GAN architecture to learn and mimic patterns in image data.<br>
 
-1.The Generator creates fake images from random noise.
-2.The Discriminator distinguishes between real and fake images.
-3.Together, they compete and improve until the Generator produces realistic images.
-4.The project uses the MNIST dataset (28x28 grayscale images of digits) as a training set.
+1. The Generator creates fake images from random noise.
+2. The Discriminator distinguishes between real and fake images.
+3. Together, they compete and improve until the Generator produces realistic images.
+4. The project uses the MNIST dataset (28x28 grayscale images of digits) as a training set.
 
 **Features** <br>
 1.Custom implementation of Generator and Discriminator networks.

@@ -10,6 +10,9 @@ GEN-AI Image Generator leverages a GAN architecture to learn and mimic patterns 
 3. Together, they compete and improve until the Generator produces realistic images.
 4. The project uses the MNIST dataset (28x28 grayscale images of digits) as a training set.
 
+![image](https://github.com/user-attachments/assets/8405a90f-4ea8-4330-9283-de66b10d771d)
+
+
 **Features** <br>
 1. Custom implementation of Generator and Discriminator networks.
 2. Visualization of generated images after every training epoch.
